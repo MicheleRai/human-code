@@ -24,7 +24,7 @@ ALTRIMENTI
         SE trovo qualcosa da guardare
             -seleziono e avvio la riproduzione
         ALTRIMENTI
-            -cerco tra i titoli random
+            -cerco fra i titoli consigliati randomicamente da NETFLIX
             SE trovo qualcosa da guardare
                 -seleziono e avvio la riproduzione
             ALTRIMENTI
@@ -32,7 +32,7 @@ ALTRIMENTI
                 SE trovo qualcosa da guardare
                      -seleziono e avvio la riproduzione
                 ALTRIMENTI
-                    -chiudo l'applicazione
+                    -mi rassegno e chiudo l'applicazione
                 Fine SE
             Fine SE
         Fine SE
