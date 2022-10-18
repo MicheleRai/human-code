@@ -1,0 +1,43 @@
+Scegliere cosa guardare su Netflix
+Che barba, che noia, che noia, che barba!
+
+Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è difficile mettere d’accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce!
+
+Start
+-accendere dispositivo
+-cercare applicazione
+-avviare applicazione
+-fare il login
+SE so cosa guardare 
+    -cerco cosa voglio vedere
+    SE lo trovo
+        -seleziono e avvio la riproduzione
+    ALTRIMENTI
+        -non so cosa guardare
+    Fine SE
+ALTRIMENTI
+    -cerco fra i suggeriti
+    SE trovo qualcosa che voglio guardare 
+        -seleziono e avvio la riproduzione
+    ALTRIMENTI
+        -cerco fra le tipologie di trama
+        SE trovo qualcosa da guardare
+            -seleziono e avvio la riproduzione
+        ALTRIMENTI
+            -cerco tra i titoli random
+            SE trovo qualcosa da guardare
+                -seleziono e avvio la riproduzione
+            ALTRIMENTI
+                -cerco fra i continua a guardare
+                SE trovo qualcosa da guardare
+                     -seleziono e avvio la riproduzione
+                ALTRIMENTI
+                    -chiudo l'applicazione
+                Fine SE
+            Fine SE
+        Fine SE
+    Fine SE
+Fine SE
+FINE
+
+
